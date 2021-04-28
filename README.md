@@ -7,7 +7,10 @@ The code is being refined and will be released soon...
 
 
 ## Overview
+<p align="center"> <img src="Figures/architecture.png" width="100%"> </p>
 
+## Performance
+<p align="center"> <img src="Figures/attention_maps.png" width="100%"> </p>
 
 ## Citation
 ```
