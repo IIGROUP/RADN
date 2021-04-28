@@ -1,5 +1,6 @@
 # RADN
 [CVPRW 2021] Code for Region-Adaptive Deformable Network for Image Quality Assessment
+[[arXiv]](https://arxiv.org/abs/2104.11599)
 The code is being refined and will be released soon...
 
 
@@ -8,10 +9,10 @@ The code is being refined and will be released soon...
 
 ## Citation
 ```
-@InProceedings{Wang2021Unsupervised,
-  author    = {Wang, Longguang and Wang, Yingqian and Dong, Xiaoyu and Xu, Qingyu and Yang, Jungang and An, Wei and Guo, Yulan},
-  title     = {Unsupervised Degradation Representation Learning for Blind Super-Resolution},
-  booktitle = {CVPR},
-  year      = {2021},
+@inproceedings
+{RADN2021ntire, title={Region-Adaptive Deformable Network for Image Quality Assessment}, 
+author={Shuwei Shi and Qingyan Bai and Mingdeng Cao and Weihao Xia and Jiahao Wang and Yifan Chen and Yujiu Yang}, 
+booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops}, 
+year={2021} 
 }
 ```
