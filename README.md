@@ -10,7 +10,7 @@ The code is being refined and will be released soon...
 <p align="center"> <img src="Figures/architecture.png" width="100%"> </p>
 
 ## Performance
-<p align="center"> <img src="Figures/attention_maps.png" width="100%"> </p>
+<p align="center"> <img src="Figures/attention_maps.png" width="80%"> </p>
 
 ## Citation
 ```
