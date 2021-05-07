@@ -22,7 +22,7 @@ The pretrained models can be found at this [URL](https://drive.google.com/file/d
 
 ## Performance
 ### Scatter Plots
-<p align="center"> <img src="Figures/scatter_plots.png" width="40%"> </p>
+<p align="center"> <img src="Figures/scatter_plots.png" width="50%"> </p>
 
 ### Attention Maps
 <p align="center"> <img src="Figures/attention_maps.png" width="75%"> </p>
