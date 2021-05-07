@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=9 python main.py --model=WResNet --database PIPAL --multi_gpu --batch_size=2 --epochs 200
+# CUDA_VISIBLE_DEVICES=0,1 python main.py --model=RADN --database PIPAL --multi_gpu --batch_size=2 --epochs 200

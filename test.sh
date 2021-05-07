@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=8,9 python test_particular_dataset.py --dist_dir='/mnt/data/ssw/PIPAL/Train_Distort/' --ref_dir='/mnt/data/ssw/PIPAL/Train_Ref/' --model_file='./checkpoints/WResNet-lr=0.0001-bs=2-1.6360' --names_info='./data/PIPAL_TR.mat' --save_path='./resluts' --modelname='WResNet'
