@@ -3,11 +3,18 @@
 
 [[arXiv]](https://arxiv.org/abs/2104.11599)
 
-The code is being refined and will be released soon...
+The codes of RADN are being refined and will be released soon...
 
 
 ## Overview
 <p align="center"> <img src="Figures/architecture.png" width="100%"> </p>
+
+## Update
+[2021/5/7] add codes for WResNet (our baseline).
+
+## Instruction
+The pretrained models can be found at https://drive.google.com/file/d/1yxHPDDOHH7zmJ_cu1p_gk0yJ6Bo5qtn5/view?usp=sharing.
+
 
 ## Performance
 <p align="center"> <img src="Figures/attention_maps.png" width="80%"> </p>
