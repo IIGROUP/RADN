@@ -15,7 +15,7 @@ The codes of RADN are being refined and will be released soon...
 ## Instruction
 Fisrt, run mkdir.sh to create necessary directories.
 
-Then you can simply use sh train.sh and sh test.sh to train and test the model.
+Then you can simply use sh train.sh and sh test.sh to train and test the model. Also you can change the options in the shell files as you like.
 
 The pretrained models can be found at this [URL](https://drive.google.com/file/d/1yxHPDDOHH7zmJ_cu1p_gk0yJ6Bo5qtn5/view?usp=sharing).
 
