@@ -28,7 +28,7 @@ The pretrained models can be found at this [URL](https://drive.google.com/file/d
 <p align="center"> <img src="Figures/attention_maps.png" width="75%"> </p>
 
 ## Acknowledgments
-The codes borrow heavily from WaDIQaM and its implementation is from [Dingquan Li](https://github.com/lidq92/WaDIQaM).
+The codes borrow heavily from WaDIQaM. Its implementation is from [Dingquan Li](https://github.com/lidq92/WaDIQaM) and we really appreciate it.
 
 ## Citation
 ```
