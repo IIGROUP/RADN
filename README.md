@@ -13,7 +13,7 @@ The codes of RADN are being refined and will be released soon...
 [2021/5/7] add codes for WResNet (our baseline).
 
 ## Instruction
-The pretrained models can be found at https://drive.google.com/file/d/1yxHPDDOHH7zmJ_cu1p_gk0yJ6Bo5qtn5/view?usp=sharing.
+The pretrained models can be found at this [URL](https://drive.google.com/file/d/1yxHPDDOHH7zmJ_cu1p_gk0yJ6Bo5qtn5/view?usp=sharing).
 
 
 ## Performance
