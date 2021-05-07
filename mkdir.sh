@@ -1,0 +1,5 @@
+mkdir results
+mkdir dwresults
+mkdir tensorboard_logs
+mkdir dwcheckpoints
+mkdir epcheckpoints
