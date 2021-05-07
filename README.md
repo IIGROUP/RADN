@@ -1,7 +1,7 @@
 # RADN
 [CVPRW 2021] Code for Region-Adaptive Deformable Network for Image Quality Assessment
 
-[[arXiv]](https://arxiv.org/abs/2104.11599)
+[[Paper on arXiv]](https://arxiv.org/abs/2104.11599)
 
 The codes of RADN are being refined and will be released soon...
 
@@ -13,7 +13,10 @@ The codes of RADN are being refined and will be released soon...
 [2021/5/7] add codes for WResNet (our baseline).
 
 ## Instruction
-You can simply use sh train.sh and sh test.sh to train and test the model.
+Fisrt, run mkdir.sh to create necessary directories.
+
+Then you can simply use sh train.sh and sh test.sh to train and test the model.
+
 The pretrained models can be found at this [URL](https://drive.google.com/file/d/1yxHPDDOHH7zmJ_cu1p_gk0yJ6Bo5qtn5/view?usp=sharing).
 
 
