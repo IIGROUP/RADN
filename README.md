@@ -31,6 +31,7 @@ The pretrained models can be found at this [URL](https://drive.google.com/file/d
 The codes borrow heavily from WaDIQaM. Its implementation is from [Dingquan Li](https://github.com/lidq92/WaDIQaM) and we really appreciate it.
 
 ## Citation
+If you find our work or code helpful for your research, please consider to cite:
 ```
 @inproceedings{RADN2021ntire, 
 title={Region-Adaptive Deformable Network for Image Quality Assessment}, 
