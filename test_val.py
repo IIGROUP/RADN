@@ -26,7 +26,7 @@ if __name__ == "__main__":
                         help="distorted images dir.")
     parser.add_argument("--ref_dir", type=str, default='/mnt/data/ssw/PIPAL/Val_Ref',
                         help="reference image path.")
-    parser.add_argument("--model_file", type=str, default='checkpoints/WResNet-lr=0.0001-bs=2-1.6360',
+    parser.add_argument("--model_file", type=str, default='checkpoints/WResNet-lr=0.0001-bs=2',
                         help="model file path.")
     parser.add_argument("--model", type=str, default='WResNet')
     args = parser.parse_args()
