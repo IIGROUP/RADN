@@ -18,6 +18,8 @@
 The pretrained models can be found at this [URL](https://drive.google.com/file/d/1yxHPDDOHH7zmJ_cu1p_gk0yJ6Bo5qtn5/view?usp=sharing).
 
 Please note that the performance on the challenge leaderboard is obtained by ensembling and the checkpoint above is for the single model.
+
+Due to the instability of deformable convolution in training, if there are some problems during the training in RADN, don’t worry, you can try to load baseline weights to initialize RADN to achieve stable training and rapid convergence.
 ## Performance
 ### Scatter Plots
 <p align="center"> <img src="Figures/scatter_plots.png" width="85%"> </p>
