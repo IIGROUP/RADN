@@ -15,7 +15,7 @@ from PIL import Image
 from main import RandomCropPatches, NonOverlappingCropPatches
 import numpy as np
 from model.WResNet import *
-# from model.RADN import *
+from model.RADN import *
 import h5py
 import os
 import time
