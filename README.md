@@ -27,6 +27,11 @@ Note: Due to the instability of deformable convolution and self-attention in tra
 ### Attention Maps
 <p align="center"> <img src="Figures/attention_maps.png" width="75%"> </p>
 
+## TODO (If I have free time)
+- Release the checkpoint of RADN
+- Simplify the code
+- etc.
+
 ## Acknowledgment
 The codes borrow heavily from WaDIQaM implemented by [Dingquan Li](https://github.com/lidq92/WaDIQaM) and we really appreciate it.
 
